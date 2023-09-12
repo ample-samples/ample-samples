@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Todd</h1>
 <h3 align="center">A passionate Full Stack Developer from the UK</h3>
 
-- 🌱 I’m currently learning **TypeScript,Lua**
+- 🌱 Currently learning **TypeScript & Lua**
+
+- 🧠 Curious about **Elm & LISP**
 
 - 📫 How to reach me **todd.griffin61@outlook.com**
 

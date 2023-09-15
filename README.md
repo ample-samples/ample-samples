@@ -3,6 +3,8 @@
 
 - 🌱 Currently learning **TypeScript & Material UI**
 
+- ✏️ Currently building on my [web portfolio](https://github.com/ample-samples/web-portfolio) & my [habit tracker](https://github.com/ample-samples/habit-tracker)
+
 - 🧠 Curious about **Elm & LISP**
 
 - 📫 How to reach me **todd.griffin61@outlook.com**

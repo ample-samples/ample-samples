@@ -3,7 +3,7 @@
 
 - 🌱 Currently learning **TypeScript & Material UI**
 
-- ✏️ Currently building on my [web portfolio](https://github.com/ample-samples/web-portfolio) & a site for the [Fallout Anomaly modpack](https://ample-samples.github.io/falloutanomaly/#/)
+- ✏️ Currently building on my [web portfolio](https://github.com/ample-samples/web-portfolio) & a site for the [Fallout Anomaly modpack](https://ample-samples.github.io/falloutanomaly/)
 
 - 🧠 Curious about **Elm & LISP**
 

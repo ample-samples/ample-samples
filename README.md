@@ -15,7 +15,7 @@
 </p>
 
 <h3 align="left">Check out my Exercism profile:</h3>
-<a href="https://exercism.org/profiles/ample-samples" target="blank"><img align="center" src="https://masonliu.gallerycdn.vsassets.io/extensions/masonliu/exercism/1.17.0/1586192511972/Microsoft.VisualStudio.Services.Icons.Default" alt="https://exercism.org/profiles/ample-samples" height="30" width="40" /></a>
+<a href="https://exercism.org/profiles/ample-samples" target="blank"><img align="center" src="https://masonliu.gallerycdn.vsassets.io/extensions/masonliu/exercism/1.17.0/1586192511972/Microsoft.VisualStudio.Services.Icons.Default" alt="https://exercism.org/profiles/ample-samples" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

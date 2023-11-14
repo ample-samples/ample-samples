@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Todd</h1>
 <h3 align="center">A passionate Full Stack Developer from the UK</h3>
 
-- 🌱 Currently learning **TypeScript & Material UI**
+- 🌱 Currently learning **Next.js and Tailwind CSS**
 
 - ✏️ Currently building on my [web portfolio](https://ample-samples.github.io/web-portfolio/#/) & a site for the [Fallout Anomaly modpack](https://ample-samples.github.io/falloutanomaly/)
 

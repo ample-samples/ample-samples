@@ -3,7 +3,7 @@
 
 - 🌱 Currently learning **Next.js and Tailwind CSS**
 
-- ✏️ Currently building on my [web portfolio](https://ample-samples.github.io/web-portfolio/#/) & a site for the [Fallout Anomaly modpack](https://ample-samples.github.io/falloutanomaly/)
+- ✏️ Currently building on my [web portfolio](https://ample-samples.github.io/web-portfolio/#/)
 
 - 🧠 Curious about **Elm, LISP & Rust**
 

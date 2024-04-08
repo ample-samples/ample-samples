@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Todd</h1>
 <h3 align="center">A passionate Full Stack Developer from the UK</h3>
 
-- 🌱 Currently learning **Next.js and Tailwind CSS**
+- 🌱 Currently learning **Next.js and Tailwind CSS** in my spare time
 
 - ✏️ Currently building on my [web portfolio](https://ample-samples.github.io/web-portfolio/#/)
 

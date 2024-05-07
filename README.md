@@ -3,9 +3,9 @@
 
 - 🌱 Currently learning **Next.js and Tailwind CSS** in my spare time
 
-- ✏️ Currently building on my [web portfolio](https://ample-samples.github.io/web-portfolio/#/)
+- ✏️ Currently building on my [web portfolio](https://ample-samples.github.io/web-portfolio/#/), a [mod](https://github.com/ample-samples/tyre-thermals-and-wear) for BeamNG.Drive & playing with [AI from scratch](https://github.com/ample-samples/lua-ai-playground)
 
-- 🧠 Curious about **Elm, LISP & Rust**
+- 🧠 Curious about **Web Assembly & AI models**
 
 - 📫 How to reach me **todd.griffin61@outlook.com**
 

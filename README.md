@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Todd</h1>
 <h3 align="center">A passionate Full Stack Developer from the UK</h3>
 
-- 🌱 Currently learning **Next.js and Tailwind CSS** in my spare time
+- 🌱 Currently learning **Next.js and Tailwind CSS**
+
+- Deployed examples of my work: [Browser Homepage](https://browser-homepage-ample-samples.vercel.app/)
 
 - ✏️ Currently building on my [web portfolio](https://ample-samples.github.io/web-portfolio/#/), a [mod](https://github.com/ample-samples/tyre-thermals-and-wear) for BeamNG.Drive & playing with [AI from scratch](https://github.com/ample-samples/lua-ai-playground)
 

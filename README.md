@@ -3,7 +3,7 @@
 
 - 🌱 Currently learning **Next.js and Tailwind CSS**
 
-- Deployed examples of my work: [Browser Homepage](https://browser-homepage-ample-samples.vercel.app/)
+- 🏢 Deployed examples of my work: [Browser Homepage](https://browser-homepage-ample-samples.vercel.app/)
 
 - ✏️ Currently building on my [web portfolio](https://ample-samples.github.io/web-portfolio/#/), a [mod](https://github.com/ample-samples/tyre-thermals-and-wear) for BeamNG.Drive & playing with [AI from scratch](https://github.com/ample-samples/lua-ai-playground)
 
